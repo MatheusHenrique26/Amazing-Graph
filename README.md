@@ -4,4 +4,4 @@
 ![mobile- Amazing Graph2](https://user-images.githubusercontent.com/78445566/131228358-5e393f2d-7198-4fd8-8c83-ff61a7ad1193.png)
 
 
-<h3>Designed and created by  <a href="https://github.com/Lorenalgm">Lorena</a> :)</h3>
+
